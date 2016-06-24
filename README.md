@@ -5,6 +5,7 @@ Assignment data is available on:
 http://jmcauley.ucsd.edu/data/assignment1.tar.gz
 ## Define the problem
 In this project, we built recommender systems to make predictions related to reviews of Books on Amazon. The dataset is 'train.json.gz’, which is 1,000,000 reviews to be used for training. The fields in this file are:
+
 - itemID: The ID of the item. This is a hashed product identifier from Amazon.
 - reviewerID: The ID of the reviewer. This is a hashed user identifier from Amazon.
 - helpful: Helpfulness votes for the review. 
