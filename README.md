@@ -8,8 +8,9 @@ In this project, we will build a recommender systems to make predictions related
 
 ### Run Instruction
 In a terminal or command window, navigate to the top-level project directory project 5/ and run one of the following commands:
-
+```
 ipython notebook project 5.ipynb jupyter notebook project 5.ipynb
+```
 
 This will open the iPython Notebook software and project file in your browser.
 
@@ -36,7 +37,7 @@ Purchase prediction: predict given a (user,item) pair from ‘pairs_Purchase.txt
 - Collaborative Filtering
 
 ### Reference
-[1] http://cseweb.ucsd.edu/classes/fa15/cse190-a/files/assignment1.pdf
-[2] http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
-[3] https://github.com/scikit-learn/scikit-learn/blob/51a765a/sklearn/linear_model/logistic.py#L925
-[4] http://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.DictVectorizer.html
+- [1] http://cseweb.ucsd.edu/classes/fa15/cse190-a/files/assignment1.pdf
+- [2] http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+- [3] https://github.com/scikit-learn/scikit-learn/blob/51a765a/sklearn/linear_model/logistic.py#L925
+- [4] http://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.DictVectorizer.html
