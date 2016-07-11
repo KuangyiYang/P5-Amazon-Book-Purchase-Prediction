@@ -9,7 +9,8 @@ In this project, we will build a recommender systems to make predictions related
 ### Run Instruction
 In a terminal or command window, navigate to the top-level project directory project 5/ and run one of the following commands:
 ```
-ipython notebook project 5.ipynb jupyter notebook project 5.ipynb
+ipython notebook project 5.ipynb 
+jupyter notebook project 5.ipynb
 ```
 
 This will open the iPython Notebook software and project file in your browser.
